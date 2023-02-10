@@ -1,2 +1,2 @@
-# clickstream_for-jobathon2022
+# clickstream_for_jobathon2022
 A clickstream hackathon challenege
