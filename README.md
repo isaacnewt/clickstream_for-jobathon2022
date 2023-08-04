@@ -1,4 +1,9 @@
 # clickstream_for_jobathon2022
-A clickstream hackathon challenege
+A clickstream hackathon contest for Vhidya analytics.com.
 
-This project is currently being developed. And will constantly be updated from time to time.
+The dataset can be found on the company site. To run the program ensure to include the dataset in the right path.
+
+Run the program either in Jupyter notebook or using pyspark CLI.
+
+Thank you!
+
